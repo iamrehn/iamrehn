@@ -1,50 +1,47 @@
-# 👋 Hey, I'm Rehan  
+<h1 align="center">👋 Hey, I'm Rehan</h1>
 
-I'm currently learning **digital marketing, design, and personal branding**.  
-I enjoy experimenting with new ideas, creative projects, and modern aesthetics — clean, street, and minimal.  
-
----
-
-### 🌱 Currently Learning  
-- 💻 Digital Marketing (Meta Ads, Google Ads, SEO)  
-- 🎨 Design & Branding  
-- 🧠 Portfolio Building  
+<p align="center">
+  <b>Digital Marketing Learner • Designer • Brand Builder in Progress</b><br>
+  <i>Exploring how to create, market & grow modern digital brands.</i>
+</p>
 
 ---
 
-### 🚀 My Goals  
+### 🌱 Currently Learning
+- 💻 Digital Marketing (Meta Ads, Google Ads, SEO)
+- 🎨 Visual & Brand Design
+- 🧠 Portfolio & Personal Branding
+
+---
+
+### 🚀 Goals
 - Build my first personal brand  
-- Grow as a marketer & designer  
-- Keep improving my skills every day  
+- Keep improving my marketing & design skills  
+- Learn how to sell anything online  
 
 ---
 
-### 🧩 What You'll Find Here  
+### 💼 Projects & Practice
+🧩 You’ll find:
 - Practice projects  
-- Design experiments  
-- Marketing strategy notes & ideas  
+- Design ideas  
+- Marketing experiments  
+- Portfolio drafts  
 
 ---
 
-### 🌍 Connect with Me  
-- Instagram: [@rehann_.i](https://www.instagram.com/rehann_.i/?hl=en)  
-- LinkedIn: [Rehan Imran](www.linkedin.com/in/rehan-imran-1b620336b)  
+### 🌍 Connect with Me
+<p align="center">
+  <a href="https://www.instagram.com/rehann_.i/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rehan-imran-1b620336b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> *“I’m not there yet — but I’m on my way.”* ✨
+<p align="center"><i>"I’m not there yet — but I’m on my way."</i> ✨</p>
 
-<!--
-**iamrehn/iamrehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
