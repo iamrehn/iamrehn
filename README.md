@@ -27,8 +27,8 @@ I enjoy experimenting with new ideas, creative projects, and modern aesthetics â
 ---
 
 ### ğŸŒ Connect with Me  
-- Instagram: [@yourhandle](https://instagram.com/)  
-- LinkedIn: [YourName](https://linkedin.com/)  
+- Instagram: [@rehann_.i](https://www.instagram.com/rehann_.i/?hl=en)  
+- LinkedIn: [Rehan Imran](www.linkedin.com/in/rehan-imran-1b620336b)  
 
 ---
 
